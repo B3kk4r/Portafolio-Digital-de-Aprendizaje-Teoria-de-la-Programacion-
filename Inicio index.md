@@ -9,6 +9,3 @@
 ### Concluciones 
 ### Referencias 
 ### Usos de la IA
-
-
-
