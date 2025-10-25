@@ -20,9 +20,9 @@ Por parte de la pramación de bloques, es una manera creativa y visual de enseñ
 
 ### Ejemplos de algoritmos con estructuras lineales/secuenciales.
 
-Loa algoritmos tienen distintos objetivos y en base a ellos se obtienen diversos tipos de estructuras algoritmicas. Una de las mas sencillas es la estructura linea/secuencial, cuyo algoritmo esta estructurado de tal forma que ejecuta las intrucciones dadas de manera lineal, paso a paso, si desviarse ni ramificarse, hace uso de las instrucciones más simples. Siendo una estructura simple y directa, ayuda a generar en los principiantes más conocimiento, al poder identificar que tipo de estructura necesita su código y qué es lo que hace, y mejoren su logica, razonamiento y criterio a la hora de intentar resolver tareas cotidianas con una programación más conciente y avanzada. 
+Loa algoritmos tienen distintos objetivos y en base a ellos se obtienen diversos tipos de estructuras algoritmicas. Una de las mas sencillas es la estructura linea/secuencial, cuyo algoritmo esta estructurado de tal forma que ejecuta las intrucciones dadas de manera lineal, paso a paso, si desviarse ni ramificarse, hace uso de las instrucciones más simples. Siendo una estructura simple y directa, ayuda a generar en los principiantes más conocimiento, al hacer que puedan entender como trabaja un algoritmo, al  identificar que tipo de estructura necesita su código y como funciona cada instruccion. A la par mejora su logica, razonamiento y criterio a la hora de intentar resolver tareas cotidianas con una programación más conciente y avanzada. 
 
-Algo importante es empezar a dejar el pseudocódigo atras para migrar a un lenguaje de programción más complejo como C, ya que con ello se podra empezar ya de manera más formal a programar, al conocer como estos lenguajes funcionan y trabajan, aunque sea solo con la intención de implementar algoritmos simples para tareas fáciles.
+Algo importante es empezar a dejar el pseudocódigo atras para migrar a un lenguaje de programción más complejo como C, ya que con ello se podra empezar ya de manera más formal y real a programar, al conocer como estos lenguajes funcionan y trabajan, aunque sea solo con la intención de implementar algoritmos simples para tareas fáciles el uso de programas como C ayuda a que se formen bases más robustas y flexibles.
 
 
 
