@@ -1,6 +1,6 @@
-# **Teoría de la Programación**
+# **Portafolio digital de aprendizaje**
 
-## Portafolio de aprendizaje
+## Teoría de la Programación
 
 ## Tabla de Contenidos
 - [Unidad 1](Unidad1.md)
