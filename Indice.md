@@ -1,10 +1,12 @@
 # **Portafolio digital de aprendizaje-Teoría de la Programación**
 
-#### **Inatitución:** Universidad Nacional de Loja                                                                  
+## Datos 
 
-#### **Carrera:** Computaciónn    
+#### **Institución:** Universidad Nacional de Loja                                                                  
 
-#### **Asignatura:** Teoria de la programación
+#### **Carrera:** Computación    
+
+#### **Asignatura:** Teoría de la programación
 
 #### **Ciclo:** Primer ciclo
 
@@ -13,7 +15,6 @@
 #### **Docente:** Lissette Geoconda López Faicán
 
 #### **Estudiante:** Isaac Alejandro Vire Poma
-
 
 ## Tabla de Contenidos
 
