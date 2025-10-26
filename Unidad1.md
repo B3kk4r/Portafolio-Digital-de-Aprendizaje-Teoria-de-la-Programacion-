@@ -1,6 +1,6 @@
 # **Unidad 1**                                                                                            
 
-[Índice](Indice.md)
+[Índice](https://github.com/B3kk4r/Portafolio-digital-/blob/main/Indice.md)
 
 ## Contenidos de la Unidad
 
