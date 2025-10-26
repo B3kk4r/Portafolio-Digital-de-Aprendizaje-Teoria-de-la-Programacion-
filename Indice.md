@@ -1,18 +1,19 @@
 # **Portafolio digital de aprendizaje-Teoría de la Programación**
 
-**Institución:** Unidad Nacional de Loja                                                                  
+#### **Inatitución:** Universidad Nacional de Loja                                                                  
 
-**Carrera:** Computaciónn    
+#### **Carrera:** Computaciónn    
 
-**Asignatura:** Teoria de la programación
+#### **Asignatura:** Teoria de la programación
 
-**Ciclo:** Primer ciclo
+#### **Ciclo:** Primer ciclo
 
-**Período académico:** Septiembre 2025 - Febrero 2026
+#### **Período académico:** Septiembre 2025 - Febrero 2026
 
-**Docente:** Lissette Geoconda López Faicán
+#### **Docente:** Lissette Geoconda López Faicán
 
-**Estudiante:** Isaac Alejandro Vire Poma
+#### **Estudiante:** Isaac Alejandro Vire Poma
+
 
 ## Tabla de Contenidos
 
