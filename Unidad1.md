@@ -24,9 +24,12 @@ Loa algoritmos tienen distintos objetivos y en base a ellos se obtienen diversos
 
 Algo importante es empezar a dejar el pseudocódigo atras para migrar a un lenguaje de programción más complejo como C, ya que con ello se podra empezar ya de manera más formal y real a programar, al conocer como estos lenguajes funcionan y trabajan, aunque sea solo con la intención de implementar algoritmos simples para tareas fáciles el uso de programas como C ayuda a que se formen bases más robustas y flexibles.
 
+<img width="686" height="361" alt="Captura de pantalla 2025-10-25 204509" src="https://github.com/user-attachments/assets/ab5a40d2-e5eb-4ad3-9c7b-930ff38bed76" />
+
+<img width="686" height="361" alt="Captura de pantalla 2025-10-25 204531" src="https://github.com/user-attachments/assets/7ffc2071-25ee-42a9-81bd-94e8551f51ae" />
 
 
 ### Principales dificultades en la aplicación de los contenidos.
-Como siempre ocurre 
+Como siempre ocurre al tratar de aprender algo nuevo, habran dificultades de manera directa, debido al poco conocimiento adquirido en dicha área. Al principio se tuvo problemas con la sintaxis y la lógica en el estructura que daba lugar a errores en el código, asi mismo, ya adentrado en lo que se refiere a lenguajes de programación, la mayor dificultad fue el aprender que hacia cada signo y cada frase dedicada, sobre todo porque se necesitaban dependiendo de lo que se queria que el programa hiciera, habia que tener varias cosas en mente al problema de programar en ellos. Sin embargo, con el tiempo estas dificultades fueron desapareciendo con la debida practica, que hacia que cada nuevo algoritmo creado fuera más facil de hacer, al tener en mente que cosas debia contener.
 
 ### Reflexión crítica de los aprendizajes de la unidad.
