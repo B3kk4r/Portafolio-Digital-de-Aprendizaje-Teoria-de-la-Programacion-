@@ -27,6 +27,8 @@
 
 ### Concluciones 
 
-### Referencias 
+### Bibliografía
+[1] L. Tamara, “El uso del PSeInt como herramienta educativa en el desarrollo del pensamiento lógico de los estudiantes del I.E.S.T.P. Recuay – Ancash 2023”. Google
+académico. https://n9.cl/n71ns (Consultado 11 oct., 2025)
 
 ### Usos de la IA
