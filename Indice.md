@@ -1,4 +1,4 @@
-# **Portafolio digital de aprendizaje**
+# **Portafolio digital de aprendizaje-Teoría de la Programación**
 
 **Institución:** Unidad Nacional de Loja
 
@@ -13,8 +13,6 @@
 **Docente:** Lissette Geoconda López Faicán
 
 **Estudiante:** Isaac Alejandro Vire Poma
-
-## Teoría de la Programación
 
 ## Tabla de Contenidos
 
