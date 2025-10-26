@@ -37,7 +37,7 @@ Como siempre ocurre al tratar de aprender algo nuevo, habran dificultades de man
 ### Reflexión crítica de los aprendizajes de la unidad.
 Esta primera undiad fue satisfactoria. Considero que los aprendizajes adquiridos son solidos y relevantes, capaces de crear bases solidas para poder seguir adentrandose mucho más a fondo en el mundo de la programación sin mucho problema. Los temas observados fueron bastante llevaderos y en ningun momento se hicieron pesados, pues se dieron a conocer de una forma sencilla pero efectiva, sin abrumar con demasiados conceptos al estudiante y permitiendole asimilarlos por medio de la práctica y error. Cada uno fue, de manera prograsiva, apoyandose en el anterior lo que permitio un avanze seguro a temas más complejos, desde nociones y conceptos básicos de programcaión, pasando por las manera más simples de programar y entender de que manera funcionaba a poder hacerlo ya de manera más formal con lenguajes de programación. Hasta el momento la materia a cumplido con las expectativas y promete un muy buen primer acercamiento a la programación, algo que agradezco mucho.
 
-## Tareas entregadas
+## Tareas entregadas 
 
 ### Herramientas de algoritmos (pseudocódigo y diagramas de flujo).
 https://drive.google.com/file/d/1I62_YyCE9LpeNERQNLWI5bHfaPpa8WCX/view?usp=drive_link}
