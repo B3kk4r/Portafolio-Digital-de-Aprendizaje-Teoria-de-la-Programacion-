@@ -49,3 +49,6 @@ https://drive.google.com/file/d/10Txlhi989pOeZfWX2ldSo0bahYpHrcT5/view?usp=drive
 
 ### Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo.
 https://drive.google.com/file/d/1yXu9liylwoGVZcTVVymGzWjOuuLOE2m3/view?usp=drive_link
+
+### Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
+https://drive.google.com/file/d/1c7um8LZnoUhRWCMpX8bC4ECmAegpv9Vy/view?usp=drive_link
