@@ -1,6 +1,6 @@
 # **Portafolio digital de aprendizaje-Teoría de la Programación**
 
-## Datos 
+## Datos Informativos
 
 #### **Institución:** Universidad Nacional de Loja                                                                  
 
