@@ -1,7 +1,7 @@
-# **Portafolio digital de aprendizaje-Teoría de la Programación**
+# 🎓 **Portafolio digital de aprendizaje-Teoría de la Programación**
 
-## Datos Informativos
-
+## 📌 Datos Informativos
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### **Institución:** Universidad Nacional de Loja                                                                  
 
 #### **Carrera:** Computación    
@@ -15,8 +15,8 @@
 #### **Docente:** Lissette Geoconda López Faicán
 
 #### **Estudiante:** Isaac Alejandro Vire Poma
-
-## Tabla de Contenidos
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 📚  Tabla de Contenidos
 
 ### [Unidad 1](Unidad1.md)
 
