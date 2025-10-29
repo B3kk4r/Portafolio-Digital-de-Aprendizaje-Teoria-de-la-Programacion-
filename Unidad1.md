@@ -9,11 +9,11 @@ Los algoritmos son procesos limitados, que siguen una serie de instrucciones par
 
 Imagen No1-Pseudocódigo 
 
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/d14e7c4f-fdbd-4cf0-beb9-f4b0427bee88" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/d14e7c4f-fdbd-4cf0-beb9-f4b0427bee88" />
 
 Imagen No2- Diagrama de flujo 
 
-<img width="400" height="224" alt="image" src="https://github.com/user-attachments/assets/ed27fe4a-12b0-4ff0-84dd-61eefa12aa54" />
+<img width="500" height="324" alt="image" src="https://github.com/user-attachments/assets/ed27fe4a-12b0-4ff0-84dd-61eefa12aa54" />
 
 No fue fácil hacer esto en un principio, fue arduo el proceso de usar PSeInt, pues encontrar la forma de hacer que el programa hiciera lo que yo quería era lo más complicado, asimismo identificar variables y fórmulas resultaba complicado, más que todo las variables, pero con el tiempo, y sobre todo práctica, logré hacer lo que queria de forma casi automática. También me ayudó el guiarme de los diagramas de flujo, logre obtener una ayuda para poder visualizar mi trabajo de mejor manera y saber si lo que estaba escribiendo cumplía lo que realmente queria.
 
@@ -56,10 +56,20 @@ Los algoritmos tienen distintos objetivos y en base a ellos se obtienen diversos
 
 Algo importante es empezar a dejar el pseudocódigo atrás para migrar a un lenguaje de programción más complejo como C, ya que con ello se podrá empezar ya de manera más formal y real a programar, al conocer cómo estos lenguajes funcionan y trabajan, aunque sea solo con la intención de implementar algoritmos simples para tareas fáciles el uso de programas como C ayuda a que se formen bases más robustas y flexibles.
 
-<img width="686" height="361" alt="Captura de pantalla 2025-10-25 204509" src="https://github.com/user-attachments/assets/ab5a40d2-e5eb-4ad3-9c7b-930ff38bed76" />
+Si bien no es fácil cambiar a un lenguaje de programación, con la práctica y un poco de esfuerzo por conocer cómo trabaja, se puede llegar a dominar y a realizar lo que se hacía en PSeInt en C, como en la siguiente imagen:
 
-<img width="686" height="361" alt="Captura de pantalla 2025-10-25 204531" src="https://github.com/user-attachments/assets/7ffc2071-25ee-42a9-81bd-94e8551f51ae" />
+Imagen No5-Trabajo en Pseint 
 
+<img width="486" height="261" alt="Captura de pantalla 2025-10-25 204509" src="https://github.com/user-attachments/assets/ab5a40d2-e5eb-4ad3-9c7b-930ff38bed76" />
+
+Imagen No6-Paso a C
+
+<img width="586" height="361" alt="Captura de pantalla 2025-10-25 204531" src="https://github.com/user-attachments/assets/7ffc2071-25ee-42a9-81bd-94e8551f51ae" />
+
+Imagen No7-Compilación y ejecución
+<img width="1278" height="307" alt="image" src="https://github.com/user-attachments/assets/f6851c1c-d6fe-481a-bca5-fdd6a7b56c4d" />
+
+Hay que tener en cuenta que, a diferencia de PSeInt, en C se necesitan ciertos comandos para compilar y ejecutar un programa, por lo que es esencial aprendérselos de memoria para facilitar el trabajo. Para compilar se usa el comando "gcc NombreArchivo.c -o NombreArchivo" y para ejecutar el comando ".\NombreArchivo.exe".
 
 ### Principales dificultades en la aplicación de los contenidos.
 
