@@ -7,24 +7,48 @@
 
 Los algoritmos son procesos limitados, que siguen una serie de instrucciones para llevar a cabo un tipo de tarea o resolver un problema. Son muy importantes en el mundo de la programación y por eso es fundamental saber manejarse con ellos, por ello los pseudocódigos son importantes, ya que ayudan a introducir a los estudiantes al mundo de la programación de una manera más sencilla y adaptarse más rapido a ella. Por su parte los diagramas de flujo, al representarse de manera gráfica, son una forma mucho más fácil de representar un algoritmo, haciendo que los estudiantes comprendan de una mejor manera qué función tiene cada instrucción que escriben para crear un algoritmo y como este esta estructurado. A continuación un ejercicio hecho en PSeInt con su respectivo diagrama de flujo:
 
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/d14e7c4f-fdbd-4cf0-beb9-f4b0427bee88" />
+Imagen No1-Pseudocódigo 
 
-<img width="500" height="324" alt="image" src="https://github.com/user-attachments/assets/ed27fe4a-12b0-4ff0-84dd-61eefa12aa54" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/d14e7c4f-fdbd-4cf0-beb9-f4b0427bee88" />
+
+Imagen No2- Diagrama de flujo 
+
+<img width="400" height="224" alt="image" src="https://github.com/user-attachments/assets/ed27fe4a-12b0-4ff0-84dd-61eefa12aa54" />
 
 No fue fácil hacer esto en un principio, fue arduo el proceso de usar PSeInt, pues encontrar la forma de hacer que el programa hiciera lo que yo quería era lo más complicado, asimismo identificar variables y fórmulas resultaba complicado, más que todo las variables, pero con el tiempo, y sobre todo práctica, logré hacer lo que queria de forma casi automática. También me ayudó el guiarme de los diagramas de flujo, logre obtener una ayuda para poder visualizar mi trabajo de mejor manera y saber si lo que estaba escribiendo cumplía lo que realmente queria.
+
+### Pruebas de escitorio.
+
+Las pruebas de escritorio son muy útiles a la hora de comprobar si tu algoritmo funciona bien. Consisten en utilizar los datos que tú le brindaste al algoritmo y crear distintos casos a resolver con ayuda de ellos, al ser algo que se hace por uno mismo, facilita el comprobar si los resultados obtenidos se ven reflejados en el algoritmo, caso contrario, estaría evidenciando fallas que hay que arreglar. Supongamos que creé un algoritmo que lleva a cabo operaciones matemáticas básicas y quiero comprobar si esta funcionando bien, lo que tendria sería algo asi:
+
+Tabla No1-Ejemplo de una prueba de escritorio.
+| Casos | Datos de entrada     | Proceso                     | Datos de salida |
+|-------|----------------------|-----------------------------|-----------------|
+| 1     | A = 2 B= 3           | C= A+B*(A - B)              |-1               |
+| 2     | A = 4.5 B= 8         | C= A+B*(A - B)              |-23.5            |
+| 3     | A = 10.5 B= 2.5      | C= A+B*(A - B)              | 30.5            | 
+
+Las pruebas tienen que ser exactas, contener los datos exactos que tiene el algoritmo para evitar confusiones a quien las vea. Si bien es una tarea ardua, al final vale la pena al tener una forma de comprobar la correcta funcionalidad de tu algoritmo.
 
 ### Programación por bloques.
 
 La programación por bloques es una manera creativa y visual de enseñar a programar a los principiantes, con ayuda de siluetas coloridas, a diferencia del código normal, que corresponde a un conjunto de instrucciones que permiten crear un algoritmo sencillo para completar ciertas tareas. Esto es de ayuda en un principio para ayudar al estudiante a adaptarse de mejor manera a las clases y entender de manera práctica cómo se aplican los algoritmos para resolver problemas y llevar a cabo acciones requeridas, con ejemplos cotidianos.
 
+Si bien parecen sencillos, realmente tienen su complejidad detrás, pero la compensan al ser bastante llamativos e interactivos, algunos ejemplos de los ejercicios que te puedes encontrar son estos:
+
+Imagen No2-Encontrar el camino (simple)
 
 <img width="650" height="250" alt="Captura de pantalla 2025-10-24 200253" src="https://github.com/user-attachments/assets/66f8432a-af7e-4850-8b92-a4824135ac6e" />
 
+Imagen No3-Encontrar el camino (avanzado)
 
 <img width="650" height="250" alt="Captura de pantalla 2025-10-24 205611" src="https://github.com/user-attachments/assets/47cb7daa-f1f3-4107-8e75-137272be0ddd" />
 
+Imagen No4-Dibujar 
 
 <img width="650" height="250" alt="Captura de pantalla 2025-10-24 213124" src="https://github.com/user-attachments/assets/57ca88c9-35bc-42a8-ba70-b8360ccfb4d9" />
+
+Una vez llegas a los niveles complicados, se pone a prueba tu capacidad de razonar, para de esa manera utilizar los bloques a tu disposición de la manera más eficiente. Es bastante entretenido y puedes quedarte unas horas intentánlo, mientras mas los pruebes mas te darás cuenta de por qué son de ayuda para poder empezar a programar, fortalecen cualidades que serán de ayuda mas adelante.
 
 ### Ejemplos de algoritmos con estructuras lineales/secuenciales.
 
