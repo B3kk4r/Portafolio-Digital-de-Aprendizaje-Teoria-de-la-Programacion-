@@ -1,16 +1,21 @@
 # **Unidad 1**   
  ##### [Índice](Indice.md)
 
-
 ## Contenidos de la Unidad
 
 ### Algoritmos, pseudocódigo, diagrama de flujo.
 
 Los algoritmos son procesos limitados, que siguen una serie de instrucciones para llevar a cabo un tipo de tarea o resolver un problema. Son muy importantes en el mundo de la programación y por eso es fundamental saber manejarse con ellos, por ello los pseudocódigos son importantes, ya que ayudan a introducir a los estudiantes al mundo de la programación de una manera más sencilla y adaptarse más rapido a ella. Por su parte los diagramas de flujo, al representarse de manera gráfica, son una forma mucho más fácil de representar un algoritmo, haciendo que los estudiantes comprendan de una mejor manera qué función tiene cada instrucción que escriben para crear un algoritmo y como este esta estructurado.
 
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/d14e7c4f-fdbd-4cf0-beb9-f4b0427bee88" />
+
+<img width="500" height="324" alt="image" src="https://github.com/user-attachments/assets/ed27fe4a-12b0-4ff0-84dd-61eefa12aa54" />
+
+
 ### Programación por bloques.
 
 La programación por bloques es una manera creativa y visual de enseñar a programar a los principiantes, con ayuda de siluetas coloridas, a diferencia del código normal, que corresponde a un conjunto de instrucciones que permiten crear un algoritmo sencillo para completar ciertas tareas. Esto es de ayuda en un principio para ayudar al estudiante a adaptarse de mejor manera a las clases y entender de manera práctica cómo se aplican los algoritmos para resolver problemas y llevar a cabo acciones requeridas, con ejemplos cotidianos.
+
 
 <img width="650" height="250" alt="Captura de pantalla 2025-10-24 200253" src="https://github.com/user-attachments/assets/66f8432a-af7e-4850-8b92-a4824135ac6e" />
 
