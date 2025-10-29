@@ -39,9 +39,6 @@ Como siempre ocurre al tratar de aprender algo nuevo, habrá dificultades de man
 
 Esta primera vez fue satisfactoria. Considerando que los aprendizajes adquiridos son sólidos y relevantes, capaces de crear bases firmes para poder seguir adentrándose mucho más a fondo en el mundo de la programación sin mucho problema. Los temas observados fueron bastante llevaderos y en ningún momento se hicieron pesados, pues se dieron a conocer de una forma sencilla pero efectiva, sin abrumar con demasiados conceptos al estudiante y permitiéndole asimilarlos por medio de la práctica y error. Cada uno fue, de manera progresiva, apoyándose en el anterior lo que permitió un avance seguro a temas más complejos, desde nociones y conceptos básicos de programación, pasando por las formas más simples de programar y entender de qué manera funcionaban, hasta llegar a programar de forma más formal con lenguajes de programación. Hasta el momento la materia ha cumplido con las expectativas y promete un muy buen primer acercamiento a la programación, algo que agradezco mucho.
 
-### Enlace a Github 
-https://github.com/B3kk4r/Portafolio-Digital-de-Aprendizaje-Teoria-de-la-Programacion-.git
-
 ## Tareas entregadas 
 
 ### Herramientas de algoritmos (pseudocódigo y diagramas de flujo).
