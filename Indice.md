@@ -26,7 +26,7 @@
 
 ### Conclusiones 
 
-### Bibliografía
+### 📖 Bibliografía
 -Herramientas de algoritmos (pseudocódigo y diagramas de flujo).
 
 [1] L. Tamara, “El uso del PSeInt como herramienta educativa en el desarrollo del pensamiento lógico de los estudiantes del I.E.S.T.P. Recuay – Ancash 2023”. Google
@@ -37,8 +37,8 @@ académico. https://n9.cl/n71ns (Consultado 11 oct., 2025)
 
 Algoritmos, herramientas, programación estructurada. Aplicación a los lenguajes de Programación Pascal, el lenguaje de programación “C” y C++ y otros lenguajes actualizados. Introducción al lenguaje de programación MATLAB Lenguajes de Programación Orientado a Objetos. Aplicaciones.”, Universidad Nacional de Educación Enrique Guzmán y Valle Alma Máter del Magisterio Nacional, https://n9.cl/7mqdyp (Consultado 18 oct., 2025)
 
-### Usos de la IA
+### 💻 Usos de la IA
 Uso de la IA para corregir errores de ortografía, buscar mejores maneras de expresar ideas y ayuda para manejar markdown.
 
-### Enlace a Github 
+### 🔗 Enlace a Github 
 https://github.com/B3kk4r/Portafolio-Digital-de-Aprendizaje-Teoria-de-la-Programacion-.git
