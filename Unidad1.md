@@ -82,7 +82,7 @@ Esta primera vez fue satisfactoria. Considerando que los aprendizajes adquiridos
 ## 📘✍️ Tareas entregadas 
 
 ### Herramientas de algoritmos (pseudocódigo y diagramas de flujo).
-(Trabajo 1)[Pseudocódigo y diagrama de flujo.pdf]
+[Trabajo 1](Pseudocódigo y diagrama de flujo.pdf)
 ### Instalación de lenguajes de programación (C, Python o Java).
 https://drive.google.com/file/d/10Txlhi989pOeZfWX2ldSo0bahYpHrcT5/view?usp=drive_link
 
