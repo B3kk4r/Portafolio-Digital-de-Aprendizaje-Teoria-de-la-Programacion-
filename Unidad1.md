@@ -81,7 +81,6 @@ Esta primera vez fue satisfactoria. Considerando que los aprendizajes adquiridos
 
 ## 📘✍️ Tareas entregadas 
 
-## [Tarea](Tarea4.pdf)
 ### Herramientas de algoritmos (pseudocódigo y diagramas de flujo).
 [Tarea](Tarea1.pdf)
 
@@ -93,3 +92,12 @@ Esta primera vez fue satisfactoria. Considerando que los aprendizajes adquiridos
 
 ### Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
 [Tarea](Tarea4.pdf)
+
+
+| Tema                                                                 | Tarea                 |
+|----------------------------------------------------------------------|-----------------------|
+| Herramientas de algoritmos (pseudocódigo y diagramas de flujo).      | [Tarea-1](Tarea1.pdf) |
+| Instalación de lenguajes de programación (C, Python o Java).         | [Tarea-2](Tarea2.pdf) |
+| Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo.| [Tarea-3](Tarea3.pdf) |
+| Del diseño del algoritmo con estructuras secuenciales a la construcción del programa. | [Tarea-4](Tarea4.pdf) |
+
