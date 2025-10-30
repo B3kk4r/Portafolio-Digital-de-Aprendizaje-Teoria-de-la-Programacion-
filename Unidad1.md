@@ -3,7 +3,7 @@
 
 ## 📚 Contenidos de la Unidad
 
-### Algoritmos, pseudocódigo, diagrama de flujo.
+### 🧠💡 Algoritmos, pseudocódigo, diagrama de flujo.
 
 Los algoritmos son procesos limitados, que siguen una serie de instrucciones para llevar a cabo un tipo de tarea o resolver un problema. Son muy importantes en el mundo de la programación y por eso es fundamental saber manejarse con ellos, por ello los pseudocódigos son importantes, ya que ayudan a introducir a los estudiantes al mundo de la programación de una manera más sencilla y adaptarse más rapido a ella. Por su parte los diagramas de flujo, al representarse de manera gráfica, son una forma mucho más fácil de representar un algoritmo, haciendo que los estudiantes comprendan de una mejor manera qué función tiene cada instrucción que escriben para crear un algoritmo y como este esta estructurado. A continuación un ejercicio hecho en PSeInt con su respectivo diagrama de flujo:
 
@@ -17,7 +17,7 @@ Imagen No2- Diagrama de flujo
 
 No fue fácil hacer esto en un principio, fue arduo el proceso de usar PSeInt, pues encontrar la forma de hacer que el programa hiciera lo que yo quería era lo más complicado, asimismo identificar variables y fórmulas resultaba complicado, más que todo las variables, pero con el tiempo, y sobre todo práctica, logré hacer lo que queria de forma casi automática. También me ayudó el guiarme de los diagramas de flujo, logre obtener una ayuda para poder visualizar mi trabajo de mejor manera y saber si lo que estaba escribiendo cumplía lo que realmente queria.
 
-### Pruebas de escitorio.
+### 🖥️ Pruebas de escitorio.
 
 Las pruebas de escritorio son muy útiles a la hora de comprobar si tu algoritmo funciona bien. Consisten en utilizar los datos que tú le brindaste al algoritmo y crear distintos casos a resolver con ayuda de ellos, al ser algo que se hace por uno mismo, facilita el comprobar si los resultados obtenidos se ven reflejados en el algoritmo, caso contrario, estaría evidenciando fallas que hay que arreglar. Supongamos que creé un algoritmo que lleva a cabo operaciones matemáticas básicas y quiero comprobar si esta funcionando bien, lo que tendria sería algo asi:
 
