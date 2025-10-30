@@ -40,5 +40,4 @@ Algoritmos, herramientas, programación estructurada. Aplicación a los lenguaje
 ### 💻 Usos de la IA
 Uso de la IA para corregir errores de ortografía, buscar mejores maneras de expresar ideas y ayuda para manejar markdown.
 
-### 🔗 Enlace a Github 
-https://github.com/B3kk4r/Portafolio-Digital-de-Aprendizaje-Teoria-de-la-Programacion-.git
+
