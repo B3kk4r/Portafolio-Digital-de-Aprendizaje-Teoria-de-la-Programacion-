@@ -22,6 +22,7 @@ No fue fácil hacer esto en un principio, fue arduo el proceso de usar PSeInt, p
 Las pruebas de escritorio son muy útiles a la hora de comprobar si tu algoritmo funciona bien. Consisten en utilizar los datos que tú le brindaste al algoritmo y crear distintos casos a resolver con ayuda de ellos, al ser algo que se hace por uno mismo, facilita el comprobar si los resultados obtenidos se ven reflejados en el algoritmo, caso contrario, estaría evidenciando fallas que hay que arreglar. Supongamos que creé un algoritmo que lleva a cabo operaciones matemáticas básicas y quiero comprobar si esta funcionando bien, lo que tendria sería algo asi:
 
 Tabla No1-Ejemplo de una prueba de escritorio.
+
 | Casos | Datos de entrada     | Proceso                     | Datos de salida |
 |-------|----------------------|-----------------------------|-----------------|
 | 1     | A = 2 B= 3           | C= A+B*(A - B)              |-1               |
@@ -67,6 +68,7 @@ Imagen No6-Paso a C
 <img width="586" height="361" alt="Captura de pantalla 2025-10-25 204531" src="https://github.com/user-attachments/assets/7ffc2071-25ee-42a9-81bd-94e8551f51ae" />
 
 Imagen No7-Compilación y ejecución
+
 <img width="1278" height="307" alt="image" src="https://github.com/user-attachments/assets/f6851c1c-d6fe-481a-bca5-fdd6a7b56c4d" />
 
 Hay que tener en cuenta que, a diferencia de PSeInt, en C se necesitan ciertos comandos para compilar y ejecutar un programa, por lo que es esencial aprendérselos de memoria para facilitar el trabajo. Para compilar se usa el comando "gcc NombreArchivo.c -o NombreArchivo" y para ejecutar el comando ".\NombreArchivo.exe".
