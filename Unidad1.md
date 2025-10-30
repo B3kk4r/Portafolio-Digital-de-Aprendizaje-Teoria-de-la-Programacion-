@@ -83,7 +83,7 @@ Esta primera vez fue satisfactoria. Considerando que los aprendizajes adquiridos
 ## [Tarea](Tarea1.pdf)
 ## [Tarea](Tarea2.pdf)
 ## [Tarea](Tarea3.pdf)
-## [Tarea](Tarea3.pdf)
+## [Tarea](Tarea4.pdf)
 ### Herramientas de algoritmos (pseudocódigo y diagramas de flujo).
 https://drive.google.com/file/d/1I62_YyCE9LpeNERQNLWI5bHfaPpa8WCX/view?usp=drive_link
 ### Instalación de lenguajes de programación (C, Python o Java).
