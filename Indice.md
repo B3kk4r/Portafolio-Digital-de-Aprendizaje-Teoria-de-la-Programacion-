@@ -14,7 +14,7 @@
 #### **Docente:** Lissette Geoconda López Faicán
 
 #### **Estudiante:** Isaac Alejandro Vire Poma
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## 📚  Tabla de Contenidos
 
 ### [Unidad 1](Unidad1.md)
