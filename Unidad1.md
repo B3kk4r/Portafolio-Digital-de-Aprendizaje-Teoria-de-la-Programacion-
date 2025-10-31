@@ -31,7 +31,7 @@ Tabla No1-Ejemplo de una prueba de escritorio.
 
 Las pruebas tienen que ser exactas, contener los datos exactos que tiene el algoritmo para evitar confusiones a quien las vea. Si bien es una tarea ardua, al final vale la pena al tener una forma de comprobar la correcta funcionalidad de tu algoritmo.
 
-### Programación por bloques.
+### 🧩 Programación por bloques.
 
 La programación por bloques es una manera creativa y visual de enseñar a programar a los principiantes, con ayuda de siluetas coloridas, a diferencia del código normal, que corresponde a un conjunto de instrucciones que permiten crear un algoritmo sencillo para completar ciertas tareas. Esto es de ayuda en un principio para ayudar al estudiante a adaptarse de mejor manera a las clases y entender de manera práctica cómo se aplican los algoritmos para resolver problemas y llevar a cabo acciones requeridas, con ejemplos cotidianos.
 
@@ -51,7 +51,7 @@ Imagen No4-Dibujar
 
 Una vez llegas a los niveles complicados, se pone a prueba tu capacidad de razonar, para de esa manera utilizar los bloques a tu disposición de la manera más eficiente. Es bastante entretenido y puedes quedarte unas horas intentánlo, mientras mas los pruebes mas te darás cuenta de por qué son de ayuda para poder empezar a programar, fortalecen cualidades que serán de ayuda mas adelante.
 
-### Ejemplos de algoritmos con estructuras lineales/secuenciales.
+### 🧠🔍 Ejemplos de algoritmos con estructuras lineales/secuenciales.
 
 Los algoritmos tienen distintos objetivos y en base a ellos se obtienen diversos tipos de estructuras algorítmicas. Una de las más sencillas es la estructura lineal/secuencial, cuyo algoritmo está estructurado de tal forma que ejecuta las instrucciones dadas de manera lineal, paso a paso, sin desviarse ni ramificarse, hace uso de las instrucciones más simples. Siendo una estructura simple y directa, ayuda a generar en los principiantes más conocimiento, al hacer que puedan entender cómo trabaja un algoritmo, al  identificar qué tipo de estructura necesita su código y cómo funciona cada instrucción. A la par mejora su lógica, razonamiento y criterio a la hora de intentar resolver tareas cotidianas con una programación más consciente y avanzada. 
 
@@ -73,11 +73,11 @@ Imagen No7-Compilación y ejecución
 
 Hay que tener en cuenta que, a diferencia de PSeInt, en C se necesitan ciertos comandos para compilar y ejecutar un programa, por lo que es esencial aprendérselos de memoria para facilitar el trabajo. Para compilar se usa el comando "gcc NombreArchivo.c -o NombreArchivo" y para ejecutar el comando ".\NombreArchivo.exe".
 
-### Principales dificultades en la aplicación de los contenidos.
-
+### 🧱💡 Principales dificultades en la aplicación de los contenidos.
+ 
 Como siempre ocurre al tratar de aprender algo nuevo, habrá dificultades de manera directa, debido al poco conocimiento adquirido en dicha área. Al principio se tuvo problemas con la sintaxis y la lógica en la estructura que daba lugar a errores en el código, asimismo, ya adentrado en lo que se refiere a lenguajes de programación, la mayor dificultad fue el aprender qué hacía cada signo y cada frase determinada, sobre todo porque se necesitaban según lo que se quería que el programa hiciera, había que tener varias cosas en mente al momento de programar en ellos. Sin embargo, con el tiempo estas dificultades fueron desapareciendo con la debida práctica, que hacía que cada nuevo algoritmo creado fuera más fácil de hacer, al tener en mente qué cosas deben contener.
 
-### Reflexión crítica de los aprendizajes de la unidad.
+### 💭🧾 Reflexión crítica de los aprendizajes de la unidad.
 
 Esta primera vez fue satisfactoria. Considerando que los aprendizajes adquiridos son sólidos y relevantes, capaces de crear bases firmes para poder seguir adentrándose mucho más a fondo en el mundo de la programación sin mucho problema. Los temas observados fueron bastante llevaderos y en ningún momento se hicieron pesados, pues se dieron a conocer de una forma sencilla pero efectiva, sin abrumar con demasiados conceptos al estudiante y permitiéndole asimilarlos por medio de la práctica y error. Cada uno fue, de manera progresiva, apoyándose en el anterior lo que permitió un avance seguro a temas más complejos, desde nociones y conceptos básicos de programación, pasando por las formas más simples de programar y entender de qué manera funcionaban, hasta llegar a programar de forma más formal con lenguajes de programación. Hasta el momento la materia ha cumplido con las expectativas y promete un muy buen primer acercamiento a la programación, algo que agradezco mucho.
 
